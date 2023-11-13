@@ -1,2 +1,2 @@
 # SQLAlchemyExercise
-Implementation of Relationship Patterns with SQLAlchemy (SQLite)
+Implementation of Relationship Patterns with SQLAlchemy using SQLiteDB
